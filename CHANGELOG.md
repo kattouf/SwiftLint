@@ -13,6 +13,9 @@
 
 #### Enhancements
 
+* Add ability to filter rules for `generate-docs` subcommand.  
+  [kattouf](https://github.com/kattouf)
+
 * Add new `excludes_trivial_init` configuration for `missing_docs` rule
   to exclude initializers without any parameters.  
   [Marcelo Fabri](https://github.com/marcelofabri)
