@@ -44,10 +44,10 @@ let package = Package(
             ]
         ),
         .testTarget(
-          name: "swiftlintTests",
-          dependencies: [
-            "swiftlint"
-          ]
+            name: "CLITests",
+            dependencies: [
+                "swiftlint"
+            ]
         ),
         .target(
             name: "SwiftLintFramework",
