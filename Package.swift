@@ -43,6 +43,12 @@ let package = Package(
                 "SwiftyTextTable",
             ]
         ),
+        .testTarget(
+          name: "swiftlintTests",
+          dependencies: [
+            "swiftlint"
+          ]
+        ),
         .target(
             name: "SwiftLintFramework",
             dependencies: frameworkDependencies,
