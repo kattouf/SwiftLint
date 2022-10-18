@@ -3,166 +3,166 @@
 ## Default Rules
 
 * `block_based_kvo`: [Block Based KVO](block_based_kvo.md)
-* `class_delegate_protocol`: Class Delegate Protocol
-* `closing_brace`: Closing Brace Spacing
-* `closure_parameter_position`: Closure Parameter Position
-* `colon`: Colon Spacing
-* `comma`: Comma Spacing
-* `comment_spacing`: Comment Spacing
-* `compiler_protocol_init`: Compiler Protocol Init
-* `computed_accessors_order`: Computed Accessors Order
-* `control_statement`: Control Statement
-* `custom_rules`: Custom Rules
-* `cyclomatic_complexity`: Cyclomatic Complexity
-* `deployment_target`: Deployment Target
-* `discouraged_direct_init`: Discouraged Direct Initialization
-* `duplicate_enum_cases`: Duplicate Enum Cases
-* `duplicate_imports`: Duplicate Imports
-* `duplicated_key_in_dictionary_literal`: Duplicated Key in Dictionary Literal
-* `dynamic_inline`: Dynamic Inline
-* `empty_enum_arguments`: Empty Enum Arguments
-* `empty_parameters`: Empty Parameters
-* `empty_parentheses_with_trailing_closure`: Empty Parentheses with Trailing Closure
-* `file_length`: File Length
-* `for_where`: For Where
-* `force_cast`: Force Cast
-* `force_try`: Force Try
-* `function_body_length`: Function Body Length
-* `function_parameter_count`: Function Parameter Count
-* `generic_type_name`: Generic Type Name
-* `identifier_name`: Identifier Name
-* `implicit_getter`: Implicit Getter
-* `inclusive_language`: Inclusive Language
-* `inert_defer`: Inert Defer
-* `is_disjoint`: Is Disjoint
-* `large_tuple`: Large Tuple
-* `leading_whitespace`: Leading Whitespace
-* `legacy_cggeometry_functions`: Legacy CGGeometry Functions
-* `legacy_constant`: Legacy Constant
-* `legacy_constructor`: Legacy Constructor
-* `legacy_hashing`: Legacy Hashing
-* `legacy_nsgeometry_functions`: Legacy NSGeometry Functions
-* `legacy_random`: Legacy Random
-* `line_length`: Line Length
-* `mark`: Mark
-* `multiple_closures_with_trailing_closure`: Multiple Closures with Trailing Closure
-* `nesting`: Nesting
-* `no_fallthrough_only`: No Fallthrough Only
-* `no_space_in_method_call`: No Space in Method Call
-* `notification_center_detachment`: Notification Center Detachment
-* `nsobject_prefer_isequal`: NSObject Prefer isEqual
-* `opening_brace`: Opening Brace Spacing
-* `operator_whitespace`: Operator Function Whitespace
-* `orphaned_doc_comment`: Orphaned Doc Comment
-* `private_over_fileprivate`: Private over fileprivate
-* `private_unit_test`: Private Unit Test
-* `protocol_property_accessors_order`: Protocol Property Accessors Order
-* `reduce_boolean`: Reduce Boolean
-* `redundant_discardable_let`: Redundant Discardable Let
-* `redundant_objc_attribute`: Redundant @objc Attribute
-* `redundant_optional_initialization`: Redundant Optional Initialization
-* `redundant_set_access_control`: Redundant Set Access Control Rule
-* `redundant_string_enum_value`: Redundant String Enum Value
-* `redundant_void_return`: Redundant Void Return
-* `return_arrow_whitespace`: Returning Whitespace
-* `self_in_property_initialization`: Self in Property Initialization
-* `shorthand_operator`: Shorthand Operator
-* `statement_position`: Statement Position
-* `superfluous_disable_command`: Superfluous Disable Command
-* `switch_case_alignment`: Switch and Case Statement Alignment
-* `syntactic_sugar`: Syntactic Sugar
-* `todo`: Todo
-* `trailing_comma`: Trailing Comma
-* `trailing_newline`: Trailing Newline
-* `trailing_semicolon`: Trailing Semicolon
-* `trailing_whitespace`: Trailing Whitespace
-* `type_body_length`: Type Body Length
-* `type_name`: Type Name
-* `unavailable_condition`: Unavailable Condition
-* `unneeded_break_in_switch`: Unneeded Break in Switch
-* `unused_capture_list`: Unused Capture List
-* `unused_closure_parameter`: Unused Closure Parameter
-* `unused_control_flow_label`: Unused Control Flow Label
-* `unused_enumerated`: Unused Enumerated
-* `unused_optional_binding`: Unused Optional Binding
-* `unused_setter_value`: Unused Setter Value
-* `valid_ibinspectable`: Valid IBInspectable
-* `vertical_parameter_alignment`: Vertical Parameter Alignment
-* `vertical_whitespace`: Vertical Whitespace
-* `void_function_in_ternary`: Void Function in Ternary
-* `void_return`: Void Return
-* `xctfail_message`: XCTFail Message
+* `class_delegate_protocol`: [Class Delegate Protocol](class_delegate_protocol.md)
+* `closing_brace`: [Closing Brace Spacing](closing_brace.md)
+* `closure_parameter_position`: [Closure Parameter Position](closure_parameter_position.md)
+* `colon`: [Colon Spacing](colon.md)
+* `comma`: [Comma Spacing](comma.md)
+* `comment_spacing`: [Comment Spacing](comment_spacing.md)
+* `compiler_protocol_init`: [Compiler Protocol Init](compiler_protocol_init.md)
+* `computed_accessors_order`: [Computed Accessors Order](computed_accessors_order.md)
+* `control_statement`: [Control Statement](control_statement.md)
+* `custom_rules`: [Custom Rules](custom_rules.md)
+* `cyclomatic_complexity`: [Cyclomatic Complexity](cyclomatic_complexity.md)
+* `deployment_target`: [Deployment Target](deployment_target.md)
+* `discouraged_direct_init`: [Discouraged Direct Initialization](discouraged_direct_init.md)
+* `duplicate_enum_cases`: [Duplicate Enum Cases](duplicate_enum_cases.md)
+* `duplicate_imports`: [Duplicate Imports](duplicate_imports.md)
+* `duplicated_key_in_dictionary_literal`: [Duplicated Key in Dictionary Literal](duplicated_key_in_dictionary_literal.md)
+* `dynamic_inline`: [Dynamic Inline](dynamic_inline.md)
+* `empty_enum_arguments`: [Empty Enum Arguments](empty_enum_arguments.md)
+* `empty_parameters`: [Empty Parameters](empty_parameters.md)
+* `empty_parentheses_with_trailing_closure`: [Empty Parentheses with Trailing Closure](empty_parentheses_with_trailing_closure.md)
+* `file_length`: [File Length](file_length.md)
+* `for_where`: [For Where](for_where.md)
+* `force_cast`: [Force Cast](force_cast.md)
+* `force_try`: [Force Try](force_try.md)
+* `function_body_length`: [Function Body Length](function_body_length.md)
+* `function_parameter_count`: [Function Parameter Count](function_parameter_count.md)
+* `generic_type_name`: [Generic Type Name](generic_type_name.md)
+* `identifier_name`: [Identifier Name](identifier_name.md)
+* `implicit_getter`: [Implicit Getter](implicit_getter.md)
+* `inclusive_language`: [Inclusive Language](inclusive_language.md)
+* `inert_defer`: [Inert Defer](inert_defer.md)
+* `is_disjoint`: [Is Disjoint](is_disjoint.md)
+* `large_tuple`: [Large Tuple](large_tuple.md)
+* `leading_whitespace`: [Leading Whitespace](leading_whitespace.md)
+* `legacy_cggeometry_functions`: [Legacy CGGeometry Functions](legacy_cggeometry_functions.md)
+* `legacy_constant`: [Legacy Constant](legacy_constant.md)
+* `legacy_constructor`: [Legacy Constructor](legacy_constructor.md)
+* `legacy_hashing`: [Legacy Hashing](legacy_hashing.md)
+* `legacy_nsgeometry_functions`: [Legacy NSGeometry Functions](legacy_nsgeometry_functions.md)
+* `legacy_random`: [Legacy Random](legacy_random.md)
+* `line_length`: [Line Length](line_length.md)
+* `mark`: [Mark](mark.md)
+* `multiple_closures_with_trailing_closure`: [Multiple Closures with Trailing Closure](multiple_closures_with_trailing_closure.md)
+* `nesting`: [Nesting](nesting.md)
+* `no_fallthrough_only`: [No Fallthrough Only](no_fallthrough_only.md)
+* `no_space_in_method_call`: [No Space in Method Call](no_space_in_method_call.md)
+* `notification_center_detachment`: [Notification Center Detachment](notification_center_detachment.md)
+* `nsobject_prefer_isequal`: [NSObject Prefer isEqual](nsobject_prefer_isequal.md)
+* `opening_brace`: [Opening Brace Spacing](opening_brace.md)
+* `operator_whitespace`: [Operator Function Whitespace](operator_whitespace.md)
+* `orphaned_doc_comment`: [Orphaned Doc Comment](orphaned_doc_comment.md)
+* `private_over_fileprivate`: [Private over fileprivate](private_over_fileprivate.md)
+* `private_unit_test`: [Private Unit Test](private_unit_test.md)
+* `protocol_property_accessors_order`: [Protocol Property Accessors Order](protocol_property_accessors_order.md)
+* `reduce_boolean`: [Reduce Boolean](reduce_boolean.md)
+* `redundant_discardable_let`: [Redundant Discardable Let](redundant_discardable_let.md)
+* `redundant_objc_attribute`: [Redundant @objc Attribute](redundant_objc_attribute.md)
+* `redundant_optional_initialization`: [Redundant Optional Initialization](redundant_optional_initialization.md)
+* `redundant_set_access_control`: [Redundant Set Access Control Rule](redundant_set_access_control.md)
+* `redundant_string_enum_value`: [Redundant String Enum Value](redundant_string_enum_value.md)
+* `redundant_void_return`: [Redundant Void Return](redundant_void_return.md)
+* `return_arrow_whitespace`: [Returning Whitespace](return_arrow_whitespace.md)
+* `self_in_property_initialization`: [Self in Property Initialization](self_in_property_initialization.md)
+* `shorthand_operator`: [Shorthand Operator](shorthand_operator.md)
+* `statement_position`: [Statement Position](statement_position.md)
+* `superfluous_disable_command`: [Superfluous Disable Command](superfluous_disable_command.md)
+* `switch_case_alignment`: [Switch and Case Statement Alignment](switch_case_alignment.md)
+* `syntactic_sugar`: [Syntactic Sugar](syntactic_sugar.md)
+* `todo`: [Todo](todo.md)
+* `trailing_comma`: [Trailing Comma](trailing_comma.md)
+* `trailing_newline`: [Trailing Newline](trailing_newline.md)
+* `trailing_semicolon`: [Trailing Semicolon](trailing_semicolon.md)
+* `trailing_whitespace`: [Trailing Whitespace](trailing_whitespace.md)
+* `type_body_length`: [Type Body Length](type_body_length.md)
+* `type_name`: [Type Name](type_name.md)
+* `unavailable_condition`: [Unavailable Condition](unavailable_condition.md)
+* `unneeded_break_in_switch`: [Unneeded Break in Switch](unneeded_break_in_switch.md)
+* `unused_capture_list`: [Unused Capture List](unused_capture_list.md)
+* `unused_closure_parameter`: [Unused Closure Parameter](unused_closure_parameter.md)
+* `unused_control_flow_label`: [Unused Control Flow Label](unused_control_flow_label.md)
+* `unused_enumerated`: [Unused Enumerated](unused_enumerated.md)
+* `unused_optional_binding`: [Unused Optional Binding](unused_optional_binding.md)
+* `unused_setter_value`: [Unused Setter Value](unused_setter_value.md)
+* `valid_ibinspectable`: [Valid IBInspectable](valid_ibinspectable.md)
+* `vertical_parameter_alignment`: [Vertical Parameter Alignment](vertical_parameter_alignment.md)
+* `vertical_whitespace`: [Vertical Whitespace](vertical_whitespace.md)
+* `void_function_in_ternary`: [Void Function in Ternary](void_function_in_ternary.md)
+* `void_return`: [Void Return](void_return.md)
+* `xctfail_message`: [XCTFail Message](xctfail_message.md)
 
 ## Opt-In Rules
 
-* `anyobject_protocol`: AnyObject Protocol
-* `array_init`: Array Init
-* `attributes`: Attributes
-* `closure_end_indentation`: Closure End Indentation
-* `closure_spacing`: Closure Spacing
-* `collection_alignment`: Collection Element Alignment
-* `contains_over_filter_count`: Contains Over Filter Count
-* `contains_over_filter_is_empty`: Contains Over Filter Is Empty
-* `contains_over_first_not_nil`: Contains over first not nil
-* `contains_over_range_nil_comparison`: Contains over range(of:) comparison to nil
-* `discouraged_none_name`: Discouraged None Name
-* `discouraged_object_literal`: Discouraged Object Literal
-* `empty_collection_literal`: Empty Collection Literal
-* `empty_count`: Empty Count
-* `empty_string`: Empty String
-* `empty_xctest_method`: Empty XCTest Method
-* `enum_case_associated_values_count`: Enum Case Associated Values Count
-* `explicit_init`: Explicit Init
-* `extension_access_modifier`: Extension Access Modifier
-* `fallthrough`: Fallthrough
-* `fatal_error_message`: Fatal Error Message
-* `file_header`: File Header
-* `file_name`: File Name
-* `first_where`: First Where
-* `flatmap_over_map_reduce`: FlatMap over map and reduce
-* `identical_operands`: Identical Operands
-* `joined_default_parameter`: Joined Default Parameter
-* `last_where`: Last Where
-* `legacy_multiple`: Legacy Multiple
-* `literal_expression_end_indentation`: Literal Expression End Indentation
-* `lower_acl_than_parent`: Lower ACL than parent
-* `modifier_order`: Modifier Order
-* `nimble_operator`: Nimble Operator
-* `nslocalizedstring_key`: NSLocalizedString Key
-* `number_separator`: Number Separator
-* `object_literal`: Object Literal
-* `operator_usage_whitespace`: Operator Usage Whitespace
-* `overridden_super_call`: Overridden methods call super
-* `override_in_extension`: Override in Extension
-* `pattern_matching_keywords`: Pattern Matching Keywords
-* `prefer_self_in_static_references`: Prefer Self in Static References
-* `prefer_self_type_over_type_of_self`: Prefer Self Type Over Type of Self
-* `private_action`: Private Actions
-* `private_outlet`: Private Outlets
-* `prohibited_interface_builder`: Prohibited Interface Builder
-* `prohibited_super_call`: Prohibited calls to super
-* `quick_discouraged_call`: Quick Discouraged Call
-* `quick_discouraged_focused_test`: Quick Discouraged Focused Test
-* `quick_discouraged_pending_test`: Quick Discouraged Pending Test
-* `reduce_into`: Reduce Into
-* `redundant_nil_coalescing`: Redundant Nil Coalescing
-* `redundant_type_annotation`: Redundant Type Annotation
-* `return_value_from_void_function`: Return Value from Void Function
-* `single_test_class`: Single Test Class
-* `sorted_first_last`: Min or Max over Sorted First or Last
-* `sorted_imports`: Sorted Imports
-* `static_operator`: Static Operator
-* `strong_iboutlet`: Strong IBOutlet
-* `test_case_accessibility`: Test case accessibility
-* `toggle_bool`: Toggle Bool
-* `unavailable_function`: Unavailable Function
-* `unneeded_parentheses_in_closure_argument`: Unneeded Parentheses in Closure Argument
-* `unowned_variable_capture`: Unowned Variable Capture
-* `untyped_error_in_catch`: Untyped Error in Catch
-* `unused_declaration`: Unused Declaration
-* `unused_import`: Unused Import
-* `vertical_parameter_alignment_on_call`: Vertical Parameter Alignment On Call
-* `vertical_whitespace_closing_braces`: Vertical Whitespace before Closing Braces
-* `vertical_whitespace_opening_braces`: Vertical Whitespace after Opening Braces
-* `xct_specific_matcher`: XCTest Specific Matcher
-* `yoda_condition`: Yoda condition rule
+* `anyobject_protocol`: [AnyObject Protocol](anyobject_protocol.md)
+* `array_init`: [Array Init](array_init.md)
+* `attributes`: [Attributes](attributes.md)
+* `closure_end_indentation`: [Closure End Indentation](closure_end_indentation.md)
+* `closure_spacing`: [Closure Spacing](closure_spacing.md)
+* `collection_alignment`: [Collection Element Alignment](collection_alignment.md)
+* `contains_over_filter_count`: [Contains Over Filter Count](contains_over_filter_count.md)
+* `contains_over_filter_is_empty`: [Contains Over Filter Is Empty](contains_over_filter_is_empty.md)
+* `contains_over_first_not_nil`: [Contains over first not nil](contains_over_first_not_nil.md)
+* `contains_over_range_nil_comparison`: [Contains over range(of:) comparison to nil](contains_over_range_nil_comparison.md)
+* `discouraged_none_name`: [Discouraged None Name](discouraged_none_name.md)
+* `discouraged_object_literal`: [Discouraged Object Literal](discouraged_object_literal.md)
+* `empty_collection_literal`: [Empty Collection Literal](empty_collection_literal.md)
+* `empty_count`: [Empty Count](empty_count.md)
+* `empty_string`: [Empty String](empty_string.md)
+* `empty_xctest_method`: [Empty XCTest Method](empty_xctest_method.md)
+* `enum_case_associated_values_count`: [Enum Case Associated Values Count](enum_case_associated_values_count.md)
+* `explicit_init`: [Explicit Init](explicit_init.md)
+* `extension_access_modifier`: [Extension Access Modifier](extension_access_modifier.md)
+* `fallthrough`: [Fallthrough](fallthrough.md)
+* `fatal_error_message`: [Fatal Error Message](fatal_error_message.md)
+* `file_header`: [File Header](file_header.md)
+* `file_name`: [File Name](file_name.md)
+* `first_where`: [First Where](first_where.md)
+* `flatmap_over_map_reduce`: [FlatMap over map and reduce](flatmap_over_map_reduce.md)
+* `identical_operands`: [Identical Operands](identical_operands.md)
+* `joined_default_parameter`: [Joined Default Parameter](joined_default_parameter.md)
+* `last_where`: [Last Where](last_where.md)
+* `legacy_multiple`: [Legacy Multiple](legacy_multiple.md)
+* `literal_expression_end_indentation`: [Literal Expression End Indentation](literal_expression_end_indentation.md)
+* `lower_acl_than_parent`: [Lower ACL than parent](lower_acl_than_parent.md)
+* `modifier_order`: [Modifier Order](modifier_order.md)
+* `nimble_operator`: [Nimble Operator](nimble_operator.md)
+* `nslocalizedstring_key`: [NSLocalizedString Key](nslocalizedstring_key.md)
+* `number_separator`: [Number Separator](number_separator.md)
+* `object_literal`: [Object Literal](object_literal.md)
+* `operator_usage_whitespace`: [Operator Usage Whitespace](operator_usage_whitespace.md)
+* `overridden_super_call`: [Overridden methods call super](overridden_super_call.md)
+* `override_in_extension`: [Override in Extension](override_in_extension.md)
+* `pattern_matching_keywords`: [Pattern Matching Keywords](pattern_matching_keywords.md)
+* `prefer_self_in_static_references`: [Prefer Self in Static References](prefer_self_in_static_references.md)
+* `prefer_self_type_over_type_of_self`: [Prefer Self Type Over Type of Self](prefer_self_type_over_type_of_self.md)
+* `private_action`: [Private Actions](private_action.md)
+* `private_outlet`: [Private Outlets](private_outlet.md)
+* `prohibited_interface_builder`: [Prohibited Interface Builder](prohibited_interface_builder.md)
+* `prohibited_super_call`: [Prohibited calls to super](prohibited_super_call.md)
+* `quick_discouraged_call`: [Quick Discouraged Call](quick_discouraged_call.md)
+* `quick_discouraged_focused_test`: [Quick Discouraged Focused Test](quick_discouraged_focused_test.md)
+* `quick_discouraged_pending_test`: [Quick Discouraged Pending Test](quick_discouraged_pending_test.md)
+* `reduce_into`: [Reduce Into](reduce_into.md)
+* `redundant_nil_coalescing`: [Redundant Nil Coalescing](redundant_nil_coalescing.md)
+* `redundant_type_annotation`: [Redundant Type Annotation](redundant_type_annotation.md)
+* `return_value_from_void_function`: [Return Value from Void Function](return_value_from_void_function.md)
+* `single_test_class`: [Single Test Class](single_test_class.md)
+* `sorted_first_last`: [Min or Max over Sorted First or Last](sorted_first_last.md)
+* `sorted_imports`: [Sorted Imports](sorted_imports.md)
+* `static_operator`: [Static Operator](static_operator.md)
+* `strong_iboutlet`: [Strong IBOutlet](strong_iboutlet.md)
+* `test_case_accessibility`: [Test case accessibility](test_case_accessibility.md)
+* `toggle_bool`: [Toggle Bool](toggle_bool.md)
+* `unavailable_function`: [Unavailable Function](unavailable_function.md)
+* `unneeded_parentheses_in_closure_argument`: [Unneeded Parentheses in Closure Argument](unneeded_parentheses_in_closure_argument.md)
+* `unowned_variable_capture`: [Unowned Variable Capture](unowned_variable_capture.md)
+* `untyped_error_in_catch`: [Untyped Error in Catch](untyped_error_in_catch.md)
+* `unused_declaration`: [Unused Declaration](unused_declaration.md)
+* `unused_import`: [Unused Import](unused_import.md)
+* `vertical_parameter_alignment_on_call`: [Vertical Parameter Alignment On Call](vertical_parameter_alignment_on_call.md)
+* `vertical_whitespace_closing_braces`: [Vertical Whitespace before Closing Braces](vertical_whitespace_closing_braces.md)
+* `vertical_whitespace_opening_braces`: [Vertical Whitespace after Opening Braces](vertical_whitespace_opening_braces.md)
+* `xct_specific_matcher`: [XCTest Specific Matcher](xct_specific_matcher.md)
+* `yoda_condition`: [Yoda condition rule](yoda_condition.md)

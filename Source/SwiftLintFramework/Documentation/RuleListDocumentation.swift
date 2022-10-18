@@ -41,13 +41,13 @@ public struct RuleListDocumentation {
             ## Default Rules
 
             \(defaultRuleDocumentations
-                .map { "* `\($0.ruleIdentifier)`: \($0.ruleName)" }
+                .map { "* `\($0.ruleIdentifier)`: [\($0.ruleName)](\($0.ruleIdentifier).md)" }
                 .joined(separator: "\n"))
 
             ## Opt-In Rules
 
             \(optInRuleDocumentations
-                .map { "* `\($0.ruleIdentifier)`: \($0.ruleName)" }
+                .map { "* `\($0.ruleIdentifier)`: [\($0.ruleName)](\($0.ruleIdentifier).md)" }
                 .joined(separator: "\n"))
 
             """
